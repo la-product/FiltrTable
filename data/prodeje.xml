@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prodeje>
+  <auto>
+    <nazev_modelu>Škoda Octavia</nazev_modelu>
+    <datum_prodeje>2010-12-02</datum_prodeje>
+    <cena>500000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Felicia</nazev_modelu>
+    <datum_prodeje>2000-12-03</datum_prodeje>
+    <cena>210000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Fabia</nazev_modelu>
+    <datum_prodeje>2010-12-04</datum_prodeje>
+    <cena>350000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Octavia</nazev_modelu>
+    <datum_prodeje>2010-12-04</datum_prodeje>
+    <cena>500000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Octavia</nazev_modelu>
+    <datum_prodeje>2010-12-05</datum_prodeje>
+    <cena>500000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Fabia</nazev_modelu>
+    <datum_prodeje>2010-12-05</datum_prodeje>
+    <cena>350000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Fabia</nazev_modelu>
+    <datum_prodeje>2010-12-06</datum_prodeje>
+    <cena>350000.00</cena>
+    <dph>20</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Forman</nazev_modelu>
+    <datum_prodeje>2000-12-04</datum_prodeje>
+    <cena>100000.00</cena>
+    <dph>19</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Favorit</nazev_modelu>
+    <datum_prodeje>2000-12-05</datum_prodeje>
+    <cena>80000.00</cena>
+    <dph>19</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Forman</nazev_modelu>
+    <datum_prodeje>2000-12-06</datum_prodeje>
+    <cena>100000.00</cena>
+    <dph>19</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Felicia</nazev_modelu>
+    <datum_prodeje>2000-12-03</datum_prodeje>
+    <cena>210000.00</cena>
+    <dph>19</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Felicia</nazev_modelu>
+    <datum_prodeje>2000-12-02</datum_prodeje>
+    <cena>210000.00</cena>
+    <dph>19</dph>
+  </auto>
+  <auto>
+    <nazev_modelu>Škoda Octavia</nazev_modelu>
+    <datum_prodeje>2010-12-07</datum_prodeje>
+    <cena>500000.00</cena>
+    <dph>20</dph>
+  </auto>
+</prodeje>

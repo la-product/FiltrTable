@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\GitHub\TescoSW_task\bin\Debug\net10.0-windows\TescoSW_task.exe
+C:\Users\admin\Documents\GitHub\TescoSW_task\bin\Debug\net10.0-windows\TescoSW_task.deps.json
+C:\Users\admin\Documents\GitHub\TescoSW_task\bin\Debug\net10.0-windows\TescoSW_task.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\TescoSW_task\bin\Debug\net10.0-windows\TescoSW_task.dll
+C:\Users\admin\Documents\GitHub\TescoSW_task\bin\Debug\net10.0-windows\TescoSW_task.pdb
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.dll
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\refint\TescoSW_task.dll
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.pdb
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\ref\TescoSW_task.dll
+C:\Users\admin\Documents\GitHub\TescoSW_task\obj\Debug\net10.0-windows\TescoSW_task.Prodeje.resources
